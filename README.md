@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="https://dbenson1.github.io/assets/profile.jpg" width="140" align="right" alt="David Benson" style="border-radius:50%">
 
-<!--
-**dbenson1/dbenson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm David Benson 👋
 
-Here are some ideas to get you started:
+**GRC | Vulnerability Management**  
+📍 Houston TX · Open to remote or hybrid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a cybersecurity professional with 5 years experience transitioning to vulnerability management.
+
+[Portfolio website](https://dbenson1.github.io) · [LinkedIn](https://www.linkedin.com/in/reubenosilaja) · [Email](mailto:David.Benson@provensystemsolutions.com)
+
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| CompTIA Security+ | CompTIA | Earned |
+| CRISC | ISACA | Earned |
+
+## Skills
+
+**Frameworks:** NIST 800-53 · NIST RMF · NIST 800-171 · NIST 800-190 · SOC 2 · ISO 27001 · NIST CSF · PCI DSS · HIPAA · FedRAMP · NIST 800-30 · GDPR · ISO 42001 · NIST AI RMF · CIS Benchmarks · CMMC  
+**Tools:** Nessus · Trivy · Qualys
+
+## Featured projects
+
+- **[Risk Register](https://dbenson1.github.io/projects/risk-register/)** · GRC · NIST 800-30
