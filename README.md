@@ -25,3 +25,4 @@ I am a seasoned GRC Analyst.
 ## Featured projects
 
 - **[System Security Plan (SSP)](https://dbenson1.github.io/projects/system-security-plan-ssp/)** · Cloud Security · FedRAMP
+- **[Vulnerability Scan Analysis & Remediation Plan](https://dbenson1.github.io/projects/vulnerability-scan-analysis-remediation-plan/)** · Vulnerability Management · NIST 800-53 RA/SI families
