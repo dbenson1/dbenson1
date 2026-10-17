@@ -2,25 +2,26 @@
 
 # Hi, I'm David Benson 👋
 
-**GRC | Vulnerability Management**  
-📍 Houston TX · Open to remote or hybrid
+**GRC Analyst**  
+📍 Chicago · Open to remote or hybrid
 
-I am a cybersecurity professional with 5 years experience transitioning to vulnerability management.
+I am a seasoned GRC Analyst.
 
-[Portfolio website](https://dbenson1.github.io) · [LinkedIn](https://www.linkedin.com/in/reubenosilaja) · [Email](mailto:David.Benson@provensystemsolutions.com)
+[Portfolio website](https://dbenson1.github.io) · [LinkedIn](https://www.linkedin.com/in/davidvbenson) · [Email](mailto:David.Benson@provensystemsolutions.com)
 
 ## Certifications
 
 | Certification | Issuer | Status |
 |---|---|---|
-| CompTIA Security+ | CompTIA | Earned |
-| CRISC | ISACA | Earned |
+| CompTIA Security+ | CompTIA | Earned (Jun 2026) |
+| CRISC | ISACA | Earned (Oct 2026) |
+| CISM | ISACA | In progress (Dec 2026) |
 
 ## Skills
 
-**Frameworks:** NIST 800-53 · NIST RMF · NIST 800-171 · NIST 800-190 · SOC 2 · ISO 27001 · NIST CSF · PCI DSS · HIPAA · FedRAMP · NIST 800-30 · GDPR · ISO 42001 · NIST AI RMF · CIS Benchmarks · CMMC  
-**Tools:** Nessus · Trivy · Qualys
+**Frameworks:** Risk Assessment · Control Mapping · SIEM Monitoring · Evidence Collection · Alert Triage  
+**Tools:** ServiceNow GRC · Power BI · AWS · Vanta
 
 ## Featured projects
 
-- **[Risk Register](https://dbenson1.github.io/projects/risk-register/)** · GRC · NIST 800-30
+- **[System Security Plan (SSP)](https://dbenson1.github.io/projects/system-security-plan-ssp/)** · Cloud Security · FedRAMP
